@@ -1,0 +1,9 @@
+.App.light {
+  background-color: #ffffff; /* Light theme background color */
+  color: #333333; /* Light theme text color */
+}
+
+.App.dark {
+  background-color: #333333; /* Dark theme background color */
+  color: #ffffff; /* Dark theme text color */
+}
