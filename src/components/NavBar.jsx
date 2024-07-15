@@ -7,7 +7,7 @@ const NavBar = () => {
 
   return (
     <>
-      <div className={`bg-${theme} text-primary`}>
+      <div className={`bg-${theme}`}>
         <nav
           className="navbar sticky-top navbar-expand-lg bg-body-tertiary bg-primary"
           data-bs-theme="dark"
